@@ -1,0 +1,7 @@
+google-generativeai==0.8.5
+python-dotenv==1.0.1
+pymongo==4.15.4
+gTTS==2.5.4
+pygame==2.6.1
+Kivy==2.3.1
+
